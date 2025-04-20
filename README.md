@@ -1,6 +1,8 @@
 # PPE Compliance Monitoring Toolkit
 
-This repository contains a toolkit for monitoring Personal Protective Equipment (PPE) compliance using computer vision and machine learning models.
+This repository contains a toolkit for monitoring Personal Protective Equipment (PPE) compliance using computer vision and deep learning. It is designed to assist safety officers and industry supervisors in automatically identifying whether individuals are wearing mandatory PPE—such as masks, gloves, hairnet, goggles and full_body suit—within a given video, image or a live stream.
+
+The system leverages a custom-trained YOLO (You Only Look Once) model for real-time object detection and is deployed using a Streamlit-based web interface. Users can upload video footage or image or use live stream from industrial or food production environments, and the toolkit will analyze it frame-by-frame, highlight PPE violations, and generate a summary report in PDF format for documentation and compliance auditing.
 
 
 ![Dashboard View 1](https://github.com/M-Muddassir-Saleem/PPE-Compliance-Monitoring/blob/ea951cf2e21871827c1e63081c69b1a251132ed6/dashboard.png)
