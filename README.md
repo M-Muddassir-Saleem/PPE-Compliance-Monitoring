@@ -1,6 +1,7 @@
 # PPE Compliance Monitoring Toolkit
 
 This repository contains a toolkit for monitoring Personal Protective Equipment (PPE) compliance using computer vision and machine learning models.
+![Dashboard View 1](https://github.com/M-Muddassir-Saleem/PPE-Compliance-Monitoring/blob/ea951cf2e21871827c1e63081c69b1a251132ed6/dashboard.png)
 
 ## Project Overview
 
