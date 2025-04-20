@@ -11,7 +11,7 @@ The toolkit leverages computer vision and deep learning to ensure that workers i
 - **app.py**: The main application file that runs the PPE compliance monitoring system.
 - **requirements.txt**: This contains necessary dependencies.
 - **my_model.pt**: A trained PyTorch model for PPE detection.
-- **stop logo.png**: Logo image for the toolkit.
+- **logo.png**: Logo image for the toolkit.
 
 ## How to Use
 
