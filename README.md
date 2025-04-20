@@ -7,8 +7,11 @@ This repository contains a toolkit for monitoring Personal Protective Equipment 
 <p align="center"><em>(Main dashboard view showing compliance overview)</em></p>
 
 
+
 ![Dashboard View 1](https://github.com/M-Muddassir-Saleem/PPE-Compliance-Monitoring/blob/70729f1f52c23f815dc7519fadd62cec6329d36e/dashboard%20(1).png)
-                        *(Main dashboard view showing safety observation card)*
+<p align="center"><em>(Main dashboard view showing safety observation card)</em></p>      
+
+
 
 ![Dashboard View 1](https://github.com/M-Muddassir-Saleem/PPE-Compliance-Monitoring/blob/f6ca62bc93b98a2e33ff8f192067e25b13c13116/dashboard%20(2).png)
 *Observation description*
